@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Fontes</title>
+    <link>https://jp-guimaraes.github.io/slides-info-aula01/home/</link>
+    <description>Recent content in Homes on Fontes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://jp-guimaraes.github.io/slides-info-aula01/home/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides-info-aula01/home/intro/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides-info-aula01/home/intro/</guid>
+      <description> Objetivos Entender o conceito de computador, computação, informática
+Conhecer a evolução histórica relacioada ao computador
+Conhecer os componentes básicos do computador
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides-info-aula01/home/evolucao-historica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides-info-aula01/home/evolucao-historica/</guid>
+      <description>Evolução histórica  Notícias de ontem  Notícia trata de uma montagem
+ Opiniões  &amp;ldquo;No futuro, os computadores não pesarão mais do que 1,5 tonelada&amp;rdquo;
+ Popular Mechanics, prevendo a evolução da ciência, 1949
+  &amp;ldquo;Penso que há talvez no mundo um mercado para 5 computadores&amp;rdquo;
+ Thomas Watson, presidente da IBM, 1943
+  &amp;ldquo;Viajei por todos os lados neste país, e posso assegurar-lhes que processamento de dados é uma ilusão que não perdura até o fim do ano&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides-info-aula01/home/computador/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides-info-aula01/home/computador/</guid>
+      <description>Computador?  Pergunta Qual a diferença entre uma máquina de calcular e um computador?
+ Definição do dicionário de Oxford:
+ o que computa; calculador, calculista. (no contexto de informática) máquina destinada ao processamento de dados, capaz de obedecer a instruções que visam produzir certas transformações nesses dados para alcançar um fim determinado.   Alan Touring
+O jogo da imitação
+ John von Neumann
+A era do computador</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides-info-aula01/home/hardware-software/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides-info-aula01/home/hardware-software/</guid>
+      <description>Voltando a definição de de Tanenbaum:
+&amp;ldquo;Um computador digital é uma máquina que pode resolver problemas para as pessoas, executando instruções que lhe são dadas&amp;rdquo;
+ Hardware x Software  Hardware  Software  Sistema Computacional   Hardware
+  Software
+  Pessoas
+   (Mais uma vez) voltando a definição de de Tanenbaum:
+&amp;ldquo;Um computador digital é uma máquina que pode resolver problemas para as pessoas, executando instruções que lhe são dadas&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides-info-aula01/home/informatica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides-info-aula01/home/informatica/</guid>
+      <description> Informática Dicionário de Oxford
+ ciência que se dedica ao tratamento da informação mediante o uso de computadores e demais dispositivos de processamento de dados.
+  Informática básica Domínio do computador como ferramenta para ser usada durante a vida pessoal/acadêmica/profissional do aluno
+Leitura complementar
+ </description>
+    </item>
+    
+  </channel>
+</rss>
