@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Homes on Fontes</title>
-    <link>https://jp-guimaraes.github.io/slides-info-aula01/home/</link>
+    <link>https://jp-guimaraes.github.io/slides-introducao-informatica/home/</link>
     <description>Recent content in Homes on Fontes</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://jp-guimaraes.github.io/slides-info-aula01/home/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://jp-guimaraes.github.io/slides-introducao-informatica/home/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/slides-info-aula01/home/intro/</link>
+      <link>https://jp-guimaraes.github.io/slides-introducao-informatica/home/01-intro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jp-guimaraes.github.io/slides-info-aula01/home/intro/</guid>
+      <guid>https://jp-guimaraes.github.io/slides-introducao-informatica/home/01-intro/</guid>
       <description> Objetivos Entender o conceito de computador, computação, informática
 Conhecer a evolução histórica relacioada ao computador
 Conhecer os componentes básicos do computador
@@ -20,11 +20,11 @@ Conhecer os componentes básicos do computador
     
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/slides-info-aula01/home/evolucao-historica/</link>
+      <link>https://jp-guimaraes.github.io/slides-introducao-informatica/home/02-evolucao-historica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jp-guimaraes.github.io/slides-info-aula01/home/evolucao-historica/</guid>
-      <description>Evolução histórica  Notícias de ontem  Notícia trata de uma montagem
+      <guid>https://jp-guimaraes.github.io/slides-introducao-informatica/home/02-evolucao-historica/</guid>
+      <description>Notícias de ontem  Notícia trata de uma montagem
  Opiniões  &amp;ldquo;No futuro, os computadores não pesarão mais do que 1,5 tonelada&amp;rdquo;
  Popular Mechanics, prevendo a evolução da ciência, 1949
   &amp;ldquo;Penso que há talvez no mundo um mercado para 5 computadores&amp;rdquo;
@@ -34,44 +34,78 @@ Conhecer os componentes básicos do computador
     
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/slides-info-aula01/home/computador/</link>
+      <link>https://jp-guimaraes.github.io/slides-introducao-informatica/home/03-computador-digital/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jp-guimaraes.github.io/slides-info-aula01/home/computador/</guid>
-      <description>Computador?  Pergunta Qual a diferença entre uma máquina de calcular e um computador?
- Definição do dicionário de Oxford:
- o que computa; calculador, calculista. (no contexto de informática) máquina destinada ao processamento de dados, capaz de obedecer a instruções que visam produzir certas transformações nesses dados para alcançar um fim determinado.   Alan Touring
-O jogo da imitação
- John von Neumann
-A era do computador</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jp-guimaraes.github.io/slides-info-aula01/home/hardware-software/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jp-guimaraes.github.io/slides-info-aula01/home/hardware-software/</guid>
-      <description>Voltando a definição de de Tanenbaum:
+      <guid>https://jp-guimaraes.github.io/slides-introducao-informatica/home/03-computador-digital/</guid>
+      <description>Definição de Tanenbaum:
 &amp;ldquo;Um computador digital é uma máquina que pode resolver problemas para as pessoas, executando instruções que lhe são dadas&amp;rdquo;
  Hardware x Software  Hardware  Software  Sistema Computacional   Hardware
   Software
   Pessoas
-   (Mais uma vez) voltando a definição de de Tanenbaum:
-&amp;ldquo;Um computador digital é uma máquina que pode resolver problemas para as pessoas, executando instruções que lhe são dadas&amp;rdquo;</description>
+   Abstração Dados
+Processamento
+Saída
+    Hardware Software           Componentes Físicos Dispositivos de entrada/Dispositivos de saída</description>
     </item>
     
     <item>
       <title></title>
-      <link>https://jp-guimaraes.github.io/slides-info-aula01/home/informatica/</link>
+      <link>https://jp-guimaraes.github.io/slides-introducao-informatica/home/04-processador/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://jp-guimaraes.github.io/slides-info-aula01/home/informatica/</guid>
+      <guid>https://jp-guimaraes.github.io/slides-introducao-informatica/home/04-processador/</guid>
+      <description> Processador   Como são fabricados?
+Vídeo recomendado
+ </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides-introducao-informatica/home/05-memorias/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides-introducao-informatica/home/05-memorias/</guid>
+      <description> Memórias Características: Velocidade x Custo x Quantidade X Volatilidade
+Tipos de memórias: Cache, Primária, Secundária
+ Hierarquia de memórias  Memória Primária  Memória secundária   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides-introducao-informatica/home/06-outros/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides-introducao-informatica/home/06-outros/</guid>
+      <description> Entrada/saída Dispositivos de entrada: Teclado/mouse/touchpad/microfone/etc Dispositivos de saída: Monitor/Caixas de som/Impressora/etc Dispositivos híbridos: Tela sensível ao toque/Placa de rede/etc
+ Placa mãe  IO - Placa mãe  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides-introducao-informatica/home/07-informatica/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides-introducao-informatica/home/07-informatica/</guid>
       <description> Informática Dicionário de Oxford
  ciência que se dedica ao tratamento da informação mediante o uso de computadores e demais dispositivos de processamento de dados.
-  Informática básica Domínio do computador como ferramenta para ser usada durante a vida pessoal/acadêmica/profissional do aluno
+  Disciplina Domínio do computador como ferramenta para ser usada durante a vida pessoal/acadêmica/profissional do aluno
 Leitura complementar
  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jp-guimaraes.github.io/slides-introducao-informatica/home/08-quiz/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jp-guimaraes.github.io/slides-introducao-informatica/home/08-quiz/</guid>
+      <description> Foi notícia “Cyberpunk 2077, um dos jogos eletrônicos mais aguardados da história &amp;hellip; &amp;ldquo;
+ 💸
+Preço de um PC capaz de rodar Cyberpunk 2077: R$ 4450,00
+Preço do Xbox Series X: R$ 4999,00; Series S: R$ 2999,00
+ Um videogame é um computador? Ou um computador é um videogame?
+Afinal, o que é um computador?  </description>
     </item>
     
   </channel>
